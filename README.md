@@ -17,6 +17,6 @@ The code is divided into two folders which are themselves divided into several `
 - `lesson-5` : Brings concepts like ***tokens***, the ***ERC721 standard***, and ***crypto-collectible assets***.
 - `lesson-6` : Interacts with smart contracts and builds a basic front-end using ***`Web3.js`***.
 
-### 2. `get-in-depth-knowledge folder`
+### 2. `get-in-depth-knowledge`
 
 TODO
