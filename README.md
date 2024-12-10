@@ -19,4 +19,4 @@ The code is divided into two folders which are themselves divided into several `
 
 ### 2. `get-in-depth-knowledge`
 
-TODO
+- `lesson-7` : Deploys smart contracts to Ethereum and Loom networks using ***Truffle***.
