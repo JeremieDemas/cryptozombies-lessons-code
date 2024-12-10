@@ -20,3 +20,4 @@ The code is divided into two folders which are themselves divided into several `
 ### 2. `get-in-depth-knowledge`
 
 - `lesson-7` : Deploys smart contracts to Ethereum and Loom networks using ***Truffle***.
+- `lesson-8` : Tests smart contracts with ***Truffle*** against ***Ganache*** and ***Loom***, and uses ***Chai*** to write more expressive assertions.
